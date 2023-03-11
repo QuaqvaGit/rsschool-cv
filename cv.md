@@ -39,8 +39,8 @@
 ### Job Experience
   &ensp;As of now, I do not have any job experience in IT, but looking forward to gain some!
 ### Education
-  - Right now i study at the **Samara University**. I am getting a speciality called *"Fundamental informatics and information technologies"*.
-  - I also did courses on [freecodecamp.org](https://www.freecodecamp.org/Quaqva) where i learnt HTML, CSS and JS basics. It is a very nice website with good material presentation.
+  - Right now i study at the **Samara University**. I am getting a speciality called *"Fundamental informatics and information technologies"* from 2021.
+  - I also did courses on [freecodecamp.org](https://www.freecodecamp.org/Quaqva) where i learnt HTML, CSS and JS basics this year. It is a very nice website with good material presentation.
   - I decided to improve my knowledge further and signed up for *Frontend course* in **the Rolling Scopes School**.
 ### English
-  &ensp;I do not have any certificates confirming my English level, but I personally would say that it's above average (around B2 - C1). I have some problems with speaking, but can write on English freely.
+  &ensp;Intermediate (B2)
